@@ -98,6 +98,6 @@ Leave a star on GitHub, give a clap on Medium and share this guide if you found 
 
 # Author❤️
 
-`Ahmed Sanad`
+`Fady Salama`
 
 [(Back to top)](#table-of-contents)
